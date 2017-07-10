@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SeatingArrangementTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-07-10T21:47:08" hostname="Sangamitras-MacBook-Pro.local" time="0.001">
+  <properties/>
+  <testcase name="constructor_methods1" classname="SeatingArrangementTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
